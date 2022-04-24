@@ -1,4 +1,4 @@
-﻿using _4._Median_of_Two_Sorted_Arrays;
+﻿using _0004._Median_of_Two_Sorted_Arrays;
 using Xunit;
 
 int[] nums1 = { 1, 3 };

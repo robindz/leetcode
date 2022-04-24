@@ -1,4 +1,4 @@
-﻿namespace _3._Longest_Substring_Without_Repeating_Characters
+﻿namespace _0003._Longest_Substring_Without_Repeating_Characters
 {
     public class Solution
     {

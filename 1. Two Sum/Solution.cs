@@ -1,4 +1,4 @@
-﻿namespace _1._Two_Sum
+﻿namespace _0001._Two_Sum
 {
     public class Solution
     {

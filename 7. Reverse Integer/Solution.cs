@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace _7._Reverse_Integer
+namespace _0007._Reverse_Integer
 {
     public class Solution
     {

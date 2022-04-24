@@ -1,4 +1,4 @@
-﻿namespace _2._Add_Two_Numbers
+﻿namespace _0002._Add_Two_Numbers
 {
     public class Solution
     {

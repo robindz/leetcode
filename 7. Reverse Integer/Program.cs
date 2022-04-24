@@ -1,4 +1,4 @@
-﻿using _7._Reverse_Integer;
+﻿using _0007._Reverse_Integer;
 using Xunit;
 
 int x = Solution.Reverse(123);

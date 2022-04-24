@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace _8._String_to_Integer__atoi_
+namespace _0008._String_to_Integer__atoi_
 {
     public class Solution
     {

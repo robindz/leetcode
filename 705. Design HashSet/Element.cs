@@ -1,4 +1,4 @@
-﻿namespace _705._Design_HashSet
+﻿namespace _0705._Design_HashSet
 {
     public class Element
     {

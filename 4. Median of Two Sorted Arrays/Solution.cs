@@ -1,4 +1,4 @@
-﻿namespace _4._Median_of_Two_Sorted_Arrays
+﻿namespace _0004._Median_of_Two_Sorted_Arrays
 {
     public class Solution
     {

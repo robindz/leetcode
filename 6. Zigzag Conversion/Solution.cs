@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace _6._Zigzag_Conversion
+namespace _0006._Zigzag_Conversion
 {
     public class Solution
     {

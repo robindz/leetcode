@@ -1,4 +1,4 @@
-﻿using _6._Zigzag_Conversion;
+﻿using _0006._Zigzag_Conversion;
 using Xunit;
 
 string result = Solution.Convert("PAYPALISHIRING", 3);

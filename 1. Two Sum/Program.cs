@@ -1,4 +1,4 @@
-﻿using _1._Two_Sum;
+﻿using _0001._Two_Sum;
 using Xunit;
 
 int[] nums = { 2, 7, 11, 15 };

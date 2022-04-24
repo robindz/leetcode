@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace _5._Longest_Palindromic_Substring
+namespace _0005._Longest_Palindromic_Substring
 {
     public class Solution
     {
