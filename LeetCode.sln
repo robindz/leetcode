@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0007. Reverse Integer", "00
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0008. String to Integer (atoi)", "0008. String to Integer (atoi)\0008. String to Integer (atoi).csproj", "{67D915E8-EA05-47CB-A176-D5956070BFDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009. Palindrome Number", "0009. Palindrome Number\0009. Palindrome Number.csproj", "{0C09E11F-FF19-4FB6-9AC3-0CC1E2565E28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0009. Palindrome Number", "0009. Palindrome Number\0009. Palindrome Number.csproj", "{0C09E11F-FF19-4FB6-9AC3-0CC1E2565E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0010. Regular Expression Matching", "0010. Regular Expression Matching\0010. Regular Expression Matching.csproj", "{9530A74D-7195-426A-8939-F8B6333D0F0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{0C09E11F-FF19-4FB6-9AC3-0CC1E2565E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C09E11F-FF19-4FB6-9AC3-0CC1E2565E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C09E11F-FF19-4FB6-9AC3-0CC1E2565E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9530A74D-7195-426A-8939-F8B6333D0F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9530A74D-7195-426A-8939-F8B6333D0F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9530A74D-7195-426A-8939-F8B6333D0F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9530A74D-7195-426A-8939-F8B6333D0F0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
