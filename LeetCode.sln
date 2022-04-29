@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0010. Regular Expression Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0011. Container With Most Water", "0011. Container With Most Water\0011. Container With Most Water.csproj", "{E315974F-D5A2-40FE-B2F1-175AC73C1172}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0012. Integer to Roman", "0012. Integer to Roman\0012. Integer to Roman.csproj", "{1AC6F143-7677-434E-9687-2DC97FAB2CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0012. Integer to Roman", "0012. Integer to Roman\0012. Integer to Roman.csproj", "{1AC6F143-7677-434E-9687-2DC97FAB2CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0013. Roman to Integer", "0013. Roman to Integer\0013. Roman to Integer.csproj", "{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0013. Roman to Integer", "0013. Roman to Integer\0013. Roman to Integer.csproj", "{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0014. Longest Common Prefix", "0014. Longest Common Prefix\0014. Longest Common Prefix.csproj", "{1F37AD33-BDCD-41D3-A6FF-E401EFCDB877}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F37AD33-BDCD-41D3-A6FF-E401EFCDB877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F37AD33-BDCD-41D3-A6FF-E401EFCDB877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F37AD33-BDCD-41D3-A6FF-E401EFCDB877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F37AD33-BDCD-41D3-A6FF-E401EFCDB877}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
