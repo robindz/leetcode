@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0011. Container With Most W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0012. Integer to Roman", "0012. Integer to Roman\0012. Integer to Roman.csproj", "{1AC6F143-7677-434E-9687-2DC97FAB2CFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0013. Roman to Integer", "0013. Roman to Integer\0013. Roman to Integer.csproj", "{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{1AC6F143-7677-434E-9687-2DC97FAB2CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AC6F143-7677-434E-9687-2DC97FAB2CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AC6F143-7677-434E-9687-2DC97FAB2CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DE72BD-3D0F-41BD-964C-FD793B9E6757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
