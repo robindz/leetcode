@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0013. Roman to Integer", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0014. Longest Common Prefix", "0014. Longest Common Prefix\0014. Longest Common Prefix.csproj", "{1F37AD33-BDCD-41D3-A6FF-E401EFCDB877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0015. 3Sum", "0015. 3Sum\0015. 3Sum.csproj", "{599A8971-C278-4594-95DE-8076874AAFD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0015. 3Sum", "0015. 3Sum\0015. 3Sum.csproj", "{599A8971-C278-4594-95DE-8076874AAFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0016. 3Sum Closest", "0016. 3Sum Closest\0016. 3Sum Closest.csproj", "{589CEE16-6211-42C4-9233-950A30D0FE00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{599A8971-C278-4594-95DE-8076874AAFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{599A8971-C278-4594-95DE-8076874AAFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{599A8971-C278-4594-95DE-8076874AAFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589CEE16-6211-42C4-9233-950A30D0FE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589CEE16-6211-42C4-9233-950A30D0FE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589CEE16-6211-42C4-9233-950A30D0FE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589CEE16-6211-42C4-9233-950A30D0FE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
