@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0017. Letter Combinations o
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0018. 4Sum", "0018. 4Sum\0018. 4Sum.csproj", "{850C2D33-AA71-40D0-9C48-F38D074B5940}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0019. Remove Nth Node From End of List", "0019. Remove Nth Node From End of List\0019. Remove Nth Node From End of List.csproj", "{EB735D60-F7A8-4CA9-8E62-867FC40CDDF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0019. Remove Nth Node From End of List", "0019. Remove Nth Node From End of List\0019. Remove Nth Node From End of List.csproj", "{EB735D60-F7A8-4CA9-8E62-867FC40CDDF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0020. Valid Parentheses", "0020. Valid Parentheses\0020. Valid Parentheses.csproj", "{9F8FED8F-E2CD-4705-AAD5-9500C10A71F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{EB735D60-F7A8-4CA9-8E62-867FC40CDDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB735D60-F7A8-4CA9-8E62-867FC40CDDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB735D60-F7A8-4CA9-8E62-867FC40CDDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8FED8F-E2CD-4705-AAD5-9500C10A71F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8FED8F-E2CD-4705-AAD5-9500C10A71F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8FED8F-E2CD-4705-AAD5-9500C10A71F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8FED8F-E2CD-4705-AAD5-9500C10A71F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
